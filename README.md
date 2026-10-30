@@ -1,4 +1,5 @@
 # CineFlow
+<<<<<<< HEAD
 
 CineFlow is a filmmaking production management platform. This repository contains the runnable Phase 1 foundation: React + Vite frontend, Spring Boot backend, PostgreSQL configuration, Flyway migration, and a premium black-and-yellow application shell.
 
@@ -107,3 +108,6 @@ For CMD, set the variables in the same terminal before `mvn spring-boot:run`:
 set APP_JWT_SECRET=your-own-random-secret-of-32-or-more-characters
 mvn spring-boot:run
 ```
+=======
+AI-powered film production management platform
+>>>>>>> dd646d45765020d2a49317cb6e04b616927f41fd
