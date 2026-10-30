@@ -1,0 +1,41 @@
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+npm-debug.log*
+
+# Java / Maven
+backend/target/
+backend/.env
+*.class
+*.log
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+
+# Java / Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
